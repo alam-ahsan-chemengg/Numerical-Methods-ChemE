@@ -51,7 +51,7 @@ Iteration 10 : [0.50000026 0.9999999  0.49999995]
 Final solution: [0.50000026 0.9999999  0.49999995]
 <img width="582" height="583" alt="result of Gauss seidel" src="https://github.com/user-attachments/assets/2488638d-9158-4ce8-bf2a-f1a40f8f3695" />
 
-## Sample of Output (Euler method)
+## Sample Output (Euler method)
 Step 1 x = 0.1 y = 1.1
 Step 2 x = 0.2 y = 1.22
 Step 3 x = 0.3 y = 1.362
@@ -64,6 +64,20 @@ Step 9 x = 0.9 y = 2.8159
 Step 10 x = 1.0 y = 3.1875
 Final value of y: 3.1874849202
 <img width="585" height="516" alt="result of Euler method" src="https://github.com/user-attachments/assets/12fc4413-7f87-4504-8241-c3df1d24b58d" />
+
+## Sample Output (Runge Kutta 4th order method)
+Step 1 x = 0.1 y = 1.1103
+Step 2 x = 0.2 y = 1.2428
+Step 3 x = 0.3 y = 1.3997
+Step 4 x = 0.4 y = 1.5836
+Step 5 x = 0.5 y = 1.7974
+Step 6 x = 0.6 y = 2.0442
+Step 7 x = 0.7 y = 2.3275
+Step 8 x = 0.8 y = 2.6511
+Step 9 x = 0.9 y = 3.0192
+Step 10 x = 1.0 y = 3.4366
+Final value of y: 3.436559488270332
+<img width="592" height="613" alt="result of runge kutta method of 4th order" src="https://github.com/user-attachments/assets/10380828-8e88-4a8e-a98e-9688600cb474" />
 
 
 
