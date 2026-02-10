@@ -34,7 +34,8 @@ Iteration 10 Root = 1.3251953125
 ## Newton Raphson Method
 ### Code
 Python implementation of Newton Raphson is 02_newton_raphson.py
-![Newton Raphson code] (<img width="657" height="896" alt="newton raphson method" src="https://github.com/user-attachments/assets/79b6bb2b-a465-4870-8e99-30fc4f7896a9" />)
+![Newton Raphson code] (<img width="958" height="663" alt="Newton  raphson method" src="https://github.com/user-attachments/assets/2a72e761-2be7-4f67-9cac-1676c82d7140" />)
+
 
 
 ## Output
