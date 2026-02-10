@@ -34,8 +34,22 @@ Iteration 6 Root = 1.324717957244746
 Iteration 7 Root = 1.324717957244746
 Iteration 8 Root = 1.324717957244746
 Iteration 9 Root = 1.324717957244746
+Iteration 10 Root = 1.324717957244746
 <img width="811" height="626" alt="result of Newton Raphson method" src="https://github.com/user-attachments/assets/16a663fc-d40e-41ac-b6ce-e5237c062036" />
 
+## Sample Output ( Gauss Seidel method)
+Iteration 1 : [1.  0.8 0.4]
+Iteration 2 : [0.6  0.96 0.48]
+Iteration 3 : [0.52  0.992 0.496]
+Iteration 4 : [0.504  0.9984 0.4992]
+Iteration 5 : [0.5008  0.99968 0.49984]
+Iteration 6 : [0.50016  0.999936 0.499968]
+Iteration 7 : [0.500032  0.9999872 0.4999936]
+Iteration 8 : [0.5000064  0.99999744 0.49999872]
+Iteration 9 : [0.50000128 0.99999949 0.49999974]
+Iteration 10 : [0.50000026 0.9999999  0.49999995]
+Final solution: [0.50000026 0.9999999  0.49999995]
+<img width="582" height="583" alt="result of Gauss seidel" src="https://github.com/user-attachments/assets/2488638d-9158-4ce8-bf2a-f1a40f8f3695" />
 
 
 
@@ -50,6 +64,3 @@ Iteration 9 Root = 1.324717957244746
 
 
 
-
-
-Iteration 10 Root = 1.324717957244746
