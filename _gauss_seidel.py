@@ -1,3 +1,6 @@
+# Method: Gauss Seidel Method
+# Subject: Numerical Methods in Chemical Engineering
+# Author: Ahsan Alam
 import numpy as np
 
 A = np.array([[4,1,2],
