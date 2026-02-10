@@ -1,3 +1,6 @@
+# Method: Runge Kutta 4th Order Method
+# Subject: Numerical Methods in Chemical Engineering
+# Author: Ahsan Alam
 def f(x, y):
     return x + y
 
