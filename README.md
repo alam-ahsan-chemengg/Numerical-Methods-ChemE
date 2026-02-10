@@ -55,7 +55,8 @@ Iteration 10 Root = 1.324717957244746
 ## Gauss seidel Method
 ### Code
 Python implementation of Gauss Seidel is 03_gauss_seidel.py
-![Gauss Seidel Code] (<img width="652" height="892" alt="Gauss seidel method" src="https://github.com/user-attachments/assets/bf6fc991-65cb-4585-a130-86cfffa605db" />)
+![Gauss Seidel Code] (<img width="954" height="838" alt="gauss seidel method" src="https://github.com/user-attachments/assets/ce5c43d0-9f75-42ae-9d4b-e65b65daae79" />)
+
 
 
 ## Output
