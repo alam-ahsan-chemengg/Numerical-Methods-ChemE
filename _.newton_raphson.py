@@ -1,3 +1,6 @@
+# Method: Newton Raphson Method
+# Subject: Numerical Methods in Chemical Engineering
+# Author: Ahsan Alam
 def f(x):
   return x**3 - x - 1
 def df(x):
