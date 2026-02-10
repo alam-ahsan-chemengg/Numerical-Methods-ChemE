@@ -22,6 +22,7 @@ Iteration 7 Root = 1.3203125
 Iteration 8 Root = 1.32421875
 Iteration 9 Root = 1.326171875
 Iteration 10 Root = 1.3251953125
+
 <img width="817" height="666" alt="result of bisection method" src="https://github.com/user-attachments/assets/0634e3e4-f62c-4e67-bf10-0e7a8997f0a8" />
 
 ## Sample Output (Newton Raphson Method)
@@ -35,6 +36,7 @@ Iteration 7 Root = 1.324717957244746
 Iteration 8 Root = 1.324717957244746
 Iteration 9 Root = 1.324717957244746
 Iteration 10 Root = 1.324717957244746
+
 <img width="811" height="626" alt="result of Newton Raphson method" src="https://github.com/user-attachments/assets/16a663fc-d40e-41ac-b6ce-e5237c062036" />
 
 ## Sample Output ( Gauss Seidel method)
@@ -49,6 +51,7 @@ Iteration 8 : [0.5000064  0.99999744 0.49999872]
 Iteration 9 : [0.50000128 0.99999949 0.49999974]
 Iteration 10 : [0.50000026 0.9999999  0.49999995]
 Final solution: [0.50000026 0.9999999  0.49999995]
+
 <img width="582" height="583" alt="result of Gauss seidel" src="https://github.com/user-attachments/assets/2488638d-9158-4ce8-bf2a-f1a40f8f3695" />
 
 ## Sample Output (Euler method)
@@ -63,6 +66,7 @@ Step 8 x = 0.8 y = 2.4872
 Step 9 x = 0.9 y = 2.8159
 Step 10 x = 1.0 y = 3.1875
 Final value of y: 3.1874849202
+
 <img width="585" height="516" alt="result of Euler method" src="https://github.com/user-attachments/assets/12fc4413-7f87-4504-8241-c3df1d24b58d" />
 
 ## Sample Output (Runge Kutta 4th order method)
@@ -77,9 +81,12 @@ Step 8 x = 0.8 y = 2.6511
 Step 9 x = 0.9 y = 3.0192
 Step 10 x = 1.0 y = 3.4366
 Final value of y: 3.436559488270332
+
 <img width="592" height="613" alt="result of runge kutta method of 4th order" src="https://github.com/user-attachments/assets/10380828-8e88-4a8e-a98e-9688600cb474" />
 
+Each program prints iteration-wise output.
 
+Author: Ahsan alam (B.tech Chemical engineering)
 
 
 
