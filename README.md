@@ -11,7 +11,12 @@ Topics covered:
 
 These codes are useful for solving engineering numerical problems using Python.
 
-## Sample Output (Bisection Method)
+## Bisection Method 
+### Code
+Python implementation of Bisection Method is 01_bisection.py
+![Bisection Code] (<img width="655" height="909" alt="Bisection method" src="https://github.com/user-attachments/assets/f8575e47-384a-409a-b7bb-00c2ab8ad5a7" />)
+
+## Output
 Iteration 1 Root = 1.5
 Iteration 2 Root = 1.25
 Iteration 3 Root = 1.375
@@ -25,7 +30,12 @@ Iteration 10 Root = 1.3251953125
 
 <img width="817" height="666" alt="result of bisection method" src="https://github.com/user-attachments/assets/0634e3e4-f62c-4e67-bf10-0e7a8997f0a8" />
 
-## Sample Output (Newton Raphson Method)
+## Newton Raphson Method
+### Code
+Python implementation of Newton Raphson is 02_newton_raphson.py
+![Newton Raphson code] (
+
+## Output
 Iteration 1 Root = 1.3478260869565217
 Iteration 2 Root = 1.325200398950907
 Iteration 3 Root = 1.3247181739990537
@@ -39,7 +49,12 @@ Iteration 10 Root = 1.324717957244746
 
 <img width="811" height="626" alt="result of Newton Raphson method" src="https://github.com/user-attachments/assets/16a663fc-d40e-41ac-b6ce-e5237c062036" />
 
-## Sample Output ( Gauss Seidel method)
+## Gauss seidel Method
+### Code
+Python implementation of Gauss Seidel is 03_gauss_seidel.py
+![Gauss Seidel Code] (
+
+## Output
 Iteration 1 : [1.  0.8 0.4]
 Iteration 2 : [0.6  0.96 0.48]
 Iteration 3 : [0.52  0.992 0.496]
@@ -54,7 +69,12 @@ Final solution: [0.50000026 0.9999999  0.49999995]
 
 <img width="582" height="583" alt="result of Gauss seidel" src="https://github.com/user-attachments/assets/2488638d-9158-4ce8-bf2a-f1a40f8f3695" />
 
-## Sample Output (Euler method)
+## Euler Method
+### Code
+Python implementation of Euler is 04_euler.py
+![Euler Code] (
+
+## Output
 Step 1 x = 0.1 y = 1.1
 Step 2 x = 0.2 y = 1.22
 Step 3 x = 0.3 y = 1.362
@@ -69,7 +89,12 @@ Final value of y: 3.1874849202
 
 <img width="585" height="516" alt="result of Euler method" src="https://github.com/user-attachments/assets/12fc4413-7f87-4504-8241-c3df1d24b58d" />
 
-## Sample Output (Runge Kutta 4th order method)
+## Runge Kutta 4th Order Method
+### Code
+Python implementation of Runge is 05_runge_kutta_4th order.py
+![Runge Kutta code] (
+
+## Output
 Step 1 x = 0.1 y = 1.1103
 Step 2 x = 0.2 y = 1.2428
 Step 3 x = 0.3 y = 1.3997
