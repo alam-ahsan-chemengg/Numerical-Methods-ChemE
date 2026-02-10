@@ -33,7 +33,8 @@ Iteration 10 Root = 1.3251953125
 ## Newton Raphson Method
 ### Code
 Python implementation of Newton Raphson is 02_newton_raphson.py
-![Newton Raphson code] (
+![Newton Raphson code] (<img width="657" height="896" alt="newton raphson method" src="https://github.com/user-attachments/assets/79b6bb2b-a465-4870-8e99-30fc4f7896a9" />)
+
 
 ## Output
 Iteration 1 Root = 1.3478260869565217
@@ -52,7 +53,8 @@ Iteration 10 Root = 1.324717957244746
 ## Gauss seidel Method
 ### Code
 Python implementation of Gauss Seidel is 03_gauss_seidel.py
-![Gauss Seidel Code] (
+![Gauss Seidel Code] (<img width="652" height="892" alt="Gauss seidel method" src="https://github.com/user-attachments/assets/bf6fc991-65cb-4585-a130-86cfffa605db" />)
+
 
 ## Output
 Iteration 1 : [1.  0.8 0.4]
@@ -72,7 +74,8 @@ Final solution: [0.50000026 0.9999999  0.49999995]
 ## Euler Method
 ### Code
 Python implementation of Euler is 04_euler.py
-![Euler Code] (
+![Euler Code] (<img width="950" height="899" alt="Euler method" src="https://github.com/user-attachments/assets/e59cf6d1-0511-479f-b08b-2f1800bc208e" />)
+
 
 ## Output
 Step 1 x = 0.1 y = 1.1
@@ -92,7 +95,8 @@ Final value of y: 3.1874849202
 ## Runge Kutta 4th Order Method
 ### Code
 Python implementation of Runge is 05_runge_kutta_4th order.py
-![Runge Kutta code] (
+![Runge Kutta code] (<img width="952" height="897" alt="Runge kutta method" src="https://github.com/user-attachments/assets/5665e508-f8e8-45d2-8adb-058341046eb0" />)
+
 
 ## Output
 Step 1 x = 0.1 y = 1.1103
