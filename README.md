@@ -14,7 +14,8 @@ These codes are useful for solving engineering numerical problems using Python.
 ## Bisection Method 
 ### Code
 Python implementation of Bisection Method is 01_bisection.py
-![Bisection Code] (<img width="655" height="909" alt="Bisection method" src="https://github.com/user-attachments/assets/f8575e47-384a-409a-b7bb-00c2ab8ad5a7" />)
+![Bisection Code] (<img width="958" height="776" alt="Bisection  method" src="https://github.com/user-attachments/assets/4291919f-baf9-4572-bc0c-ac8dd5e47f90" />)
+
 
 ## Output
 Iteration 1 Root = 1.5
